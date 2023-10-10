@@ -1,7 +1,7 @@
 # SystemWind
 
 ## Project Overview
-SystemWind is a fully responsive website layout created during the Strefa Kursów certified CSS course. This layout features a modern design and interactive elements, including a drop-down menu.
+SystemWind is a fully responsive website layout created based on Kristian Lisowski's educational courses from Strefa Kursów. This layout boasts a contemporary design and incorporates interactive elements, such as a user-friendly drop-down menu.
 
 ## Technologies Used
 - HTML5

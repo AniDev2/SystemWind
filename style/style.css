@@ -60,8 +60,6 @@ header .flex {
   justify-content: space-between;
 }
 
-/* zwiekszylismy tutaj specyficznosc, bo domyslnie klasa flex ma juz jakies tyle, chcemy je nadbudowac */
-
 header .logo {
   width: 20%;
 }

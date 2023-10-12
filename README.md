@@ -1,7 +1,7 @@
 # SystemWind - Responsive Website Layout
 
 ## Project Overview
-SystemWind is a fully responsive website layout created to reinforce the scope of material from Kristian Lisowski's from Strefa Kursów educational courses. This layout features a contemporary design and includes interactive elements, such as a user-friendly drop-down menu.
+SystemWind is a fully responsive website layout that represents the culmination of a stage in learning HTML and CSS. This layout features a contemporary design and includes interactive elements, such as a user-friendly drop-down menu.
 
 ## Technologies Used
 - HTML5
@@ -13,5 +13,7 @@ SystemWind is a fully responsive website layout created to reinforce the scope o
 
 ## Live Demo
 You can access the live demo of this project [here](https://anidev2.github.io/SystemWind/)
+
+Special thanks to Kristian Lisowski from Strefa Kursów for his educational courses that inspired this project.
 
 Feel free to explore the SystemWind layout, and if you have any questions or suggestions, please don't hesitate to get in touch.

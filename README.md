@@ -14,6 +14,4 @@ SystemWind is a fully responsive website layout that represents the culmination 
 ## Live Demo
 You can access the live demo of this project [here](https://anidev2.github.io/SystemWind/)
 
-Special thanks to Kristian Lisowski from Strefa Kursów for his educational courses that inspired this project.
-
 Feel free to explore the SystemWind layout, and if you have any questions or suggestions, please don't hesitate to get in touch.
